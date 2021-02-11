@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/EdgarEldy/typescript_tutorial/issues"
   },
-  "homepage": "https://github.com/EdgarEldy/typescript_tutorial#readme"
+  "homepage": "https://github.com/EdgarEldy/typescript_tutorial#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
