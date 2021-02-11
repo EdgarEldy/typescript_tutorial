@@ -19,5 +19,8 @@
   "homepage": "https://github.com/EdgarEldy/typescript_tutorial#readme",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.1.5"
   }
 }
