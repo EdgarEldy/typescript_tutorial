@@ -8,12 +8,9 @@
     "dev": "nodemon src/app.ts",
     "build": "tsc -p ."
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/EdgarEldy/typescript_tutorial.git"
-  },
+  "repository": "git+https://github.com/EdgarEldy/typescript_tutorial.git",
   "keywords": [],
-  "author": "",
+  "author": "Edgar Eldy <ed.eldy21@live.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/EdgarEldy/typescript_tutorial/issues"
