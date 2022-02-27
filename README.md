@@ -14,7 +14,8 @@ typescript-tutorial/
 ```
 ### Tools
 Webstorm 2021.3.2 or vs code
-###Configurations
+
+### Configurations
 1. Install node.js
 2. Install yarn globally : npm i -g yarn
 3. Install gulp globally using yarn : yarn global add gulp-cli
