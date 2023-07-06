@@ -127,3 +127,6 @@ dist
 .pnp.*
 
 /.idea
+
+## yarn.lock ##
+yarn.lock
