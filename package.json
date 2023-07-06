@@ -25,6 +25,7 @@
     "browserify": "^17.0.0",
     "fancy-log": "^2.0.0",
     "gulp": "^4.0.2",
+    "gulp-terser": "^2.1.0",
     "gulp-typescript": "^6.0.0-alpha.1",
     "nodemon": "^2.0.7",
     "ts-node": "^9.1.1",
