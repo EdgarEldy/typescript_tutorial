@@ -27,6 +27,7 @@
     "gulp-typescript": "^6.0.0-alpha.1",
     "nodemon": "^2.0.7",
     "ts-node": "^9.1.1",
+    "tsify": "^5.0.4",
     "typescript": "^4.1.5"
   }
 }
